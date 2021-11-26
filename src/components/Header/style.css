@@ -1,0 +1,37 @@
+.header__container {
+  width: 100%;
+  margin: 4rem 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.header__logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+
+.header__logo--state img {
+  margin-right: 1rem;
+}
+
+.header__city {
+  font-size: 1.8rem;
+  line-height: 2.1rem;
+}
+
+.header__span {
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+}
+/*# sourceMappingURL=style.css.map */
