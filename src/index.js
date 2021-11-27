@@ -6,7 +6,7 @@ import Header from './components/Header'
 ReactDOM.render(
   <div className="main__wrapper">
     <div className="main__container">
-      <Header />
+      <Header city="Goiânia" state="GO"/>
     </div>
 
   </div>
