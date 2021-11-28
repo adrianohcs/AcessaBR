@@ -38,4 +38,9 @@ html body {
   max-width: 120rem;
   margin: 0 auto;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
 /*# sourceMappingURL=global.css.map */
